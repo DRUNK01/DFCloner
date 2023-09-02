@@ -1,5 +1,5 @@
 # DFCloner
-A Facebool File Cloner and File Maker tool
+A Facebook File Cloner and File Maker tool
 
 
 ## Commands
