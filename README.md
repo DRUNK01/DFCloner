@@ -1,4 +1,3 @@
-![DFCloner]()
 <p align="center">Most Updated File Cloner For Global</p>
 
 ## Note:
