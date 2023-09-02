@@ -12,7 +12,3 @@ git clone https://github.com/DRUNK01/DFCloner
 cd DFCloner
 python DFCloner.py
 ```
-
-
-
-://github.com/DRUNK01/DFCloner
